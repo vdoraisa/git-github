@@ -1,4 +1,8 @@
 This is the first file.
 Let me check if this is shown in the github.
 
+I was wrong. Commit adds to the local repo.
+We need to push to see in the github.
+
+
 
